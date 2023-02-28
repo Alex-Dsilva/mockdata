@@ -1,70 +1,24 @@
 {
-    "books": [
-        {
-            "id": 1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
-          },
-              {
-                "image_url": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F02%2F12%2F00%2F05%2F05%2F910db405-6bd4-4a5d-bce7-c2e3135dc5e6%2F449070_WAntoneta_55908c_killing.png?auto=format&ch=Width%2CDPR&fm=png&w=600&h=600",
-                "book_name": "99 tree",
-                "author": "Sam",
-                "genre": "Science",
-                "edition": "2020",
-                "publisher": "Sam lex",
-                "cost": "550",
-                "borrowed": false,
-                "id": 2
-              },
-              {
-                "image_url": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F02%2F25%2F23%2F28%2F18%2F85d3210c-5479-4b7a-a473-fd807e4ca89c%2FHero2.png?auto=format&ch=Width%2CDPR&fm=png&w=600&h=600",
-                "book_name": "Cinema ",
-                "author": "Sam",
-                "genre": "Science",
-                "edition": "2020",
-                "publisher": "Sam lex",
-                "cost": "300",
-                "borrowed": false,
-                "id": 3
-              },
-              {
-                "image_url": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F02%2F25%2F23%2F23%2F20%2Fd5c54591-6aca-4750-b9c6-3a1ea8682738%2Fbook1%402x-e9d88f52.png?auto=format&ch=Width%2CDPR&fm=png&w=600&h=600",
-                "book_name": "life",
-                "author": "Sam",
-                "genre": "Fiction",
-                "edition": "2021",
-                "publisher": "Sam lex",
-                "cost": "1000",
-                "borrowed": false,
-                "id": 5
-              },
-              {
-                "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/contemporary-fiction-night-time-book-cover-design-template-1be47835c3058eb42211574e0c4ed8bf_screen.jpg?ts=1637012564",
-                "book_name": "kuchbhi",
-                "author": "Sam",
-                "genre": "History",
-                "edition": "2022",
-                "publisher": "Sam lex",
-                "cost": "600",
-                "borrowed": false,
-                "id": 6
-              },
-              {
-                "image_url": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F02%2F22%2F06%2F31%2F00%2F08c4c2bc-737b-454d-b3f7-0041110dd699%2F510245_Llywellyn.png?auto=format&ch=Width%2CDPR&w=250&h=250",
-                "book_name": "life test",
-                "author": "Sam",
-                "genre": "Tech",
-                "edition": "2021",
-                "publisher": "Sam lex",
-                "cost": "300",
-                "borrowed": false,
-                "id": 7
-              }
-    ]
+    "Jobs": [{
+		"company": "Ellette",
+		"postedAt": "2021-03-30",
+		"city": "Gangtok",
+		"location": "American Samoa",
+		"role": "Frontend",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": " Backend Developer",
+		"language": "Java"
+	},
+	{
+		"company": "Jinny",
+		"postedAt": "2021-09-09",
+		"city": "Ludhiana",
+		"location": "Belgium",
+		"role": "FullStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "Java"
+	}]
   }
